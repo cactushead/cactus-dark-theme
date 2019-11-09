@@ -767,7 +767,7 @@ pre {
 }
 
 #bug_action .widget-header {
-    border-bottom: #282c34 !important;
+    /* border-bottom: #282c34 !important; */
 }
 
 #bug_action .widget-title {
