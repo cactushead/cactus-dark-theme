@@ -8,7 +8,7 @@ cactus dark theme does not require any additional javascript to override the def
 
 ## Version
 
-1.01 - Tested with MantisBT 2.9.0 (will test newer versions asap)
+1.01 - Tested with MantisBT 2.22.1
 
 ## Prerequisites:
 
